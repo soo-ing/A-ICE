@@ -36,8 +36,6 @@ IoT 기반의 블랙아이스 탐지 시스템
 
 # 상세 설명
 
-## Deep-Learning
-
 > 3가지의 상황에 맞는 도로 사진 자동으로 수집하고 학습
 
 ![image](https://user-images.githubusercontent.com/84956281/141677619-3d131d27-33d6-4945-a8ee-c829a0c385da.png)
